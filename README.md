@@ -1,2 +1,2 @@
 # ShadowFox
-Got it 👍 You want me to refine this into a clear, professional, and highly understandable abstract that’s effective for your SDC project submission. Here’s a polished version:   ---  Abstract  This project presents a mobile-based agritech platform 
+This project consists of two machine learning applications developed using Python and Jupyter Notebook: House Price Prediction and Super Store Profit Prediction. The primary objective was to apply data science techniques to analyze real-world datasets, extract meaningful insights, and build predictive models capable of forecasting future outcomes.
